@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-<!--
+<img src="https://user-images.githubusercontent.com/87446059/126054727-65789b80-2caf-4569-8069-9a8caf32fe56.jpg" width="50%" height="30%">
+
 **aigOffline/aigOffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
